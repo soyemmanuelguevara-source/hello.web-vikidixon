@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if (typewriter && !prefersReducedMotion) {
     const phrases = [
-      '2 Tallas de Cintura y Abdomen en Tan Solo 4 Días',
+      'Tallas de Cintura y Abdomen en Pocos Días',
       'Una Figura Más Definida con Compuestos Herbales',
       'Resultados Visibles con la Faja de Yeso Flexible'
     ];
